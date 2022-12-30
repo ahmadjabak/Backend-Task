@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+    "firstName" : "Ahmad",
+   "lastName" : "Jabak",
+ "dateOfBirth" : "1998-1-1",
+ "address" : "Ouzaii",
+ "phoneNumber" : "76484640",
+ "countryCode" : "0000"
+ 
+    },
+    {
+        "id": "2",
+    "firstName" : "Peter",
+   "lastName" : "Peter",
+ "dateOfBirth" : "1995-1-1",
+ "address" : "Beirut",
+ "phoneNumber" : "03457629",
+ "countryCode" : "0000"
+ 
+    },
+    {
+        "id": "3",
+    "firstName" : "Samir",
+   "lastName" : "Peter",
+ "dateOfBirth" : "1995-1-1",
+ "address" : "Hamra",
+ "phoneNumber" : "07457629",
+ "countryCode" : "0000"
+ 
+    },
+    {
+        "id": "4",
+    "firstName" : "Monir",
+   "lastName" : "Fathi",
+ "dateOfBirth" : "1995-1-1",
+ "address" : "Al-JANAH",
+ "phoneNumber" : "08457629",
+ "countryCode" : "0000"
+ 
+    }
+]
